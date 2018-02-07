@@ -1,0 +1,14 @@
+.input-group {
+    margin: 16px auto;
+}
+
+.details {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+}
+
+.details div:last-child {
+    font-size: .8em;
+}
